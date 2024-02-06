@@ -22,7 +22,7 @@ Mern Book Search is a web application built using the MEAN stack (MongoDB, Expre
 
 ## Demo
 
-[Live Demo](#) - Add the link to your live application here.
+[Live Demo] https://github.com/Selvan92/Mern-Book-Search.
 
 ## Installation
 
